@@ -1,0 +1,18 @@
+{
+  "name": "vue-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  },
+  "dependencies": {
+    "vuepress-plugin-code-copy": "^1.0.6"
+  }
+}
